@@ -2,3 +2,4 @@ covid19/
 data/
 __pycache__/
 *xlsx
+.vscode/
